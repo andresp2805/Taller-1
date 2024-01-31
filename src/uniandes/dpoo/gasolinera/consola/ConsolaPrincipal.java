@@ -6,7 +6,7 @@ import java.io.IOException;
 
 import uniandes.dpoo.gasolinera.logica.Gasolinera;
 
-/**
+/** HOLA
  * En esta clase se encuentra el método main de la aplicación.
  */
 public class ConsolaPrincipal extends ConsolaBasica
